@@ -1,4 +1,4 @@
-#APOLLOTECH
+APOLLOTECH
 
 Lucas Thomazella - RM 82057
 Rafael Zanao - RM 82923
